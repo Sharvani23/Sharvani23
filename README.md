@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sharvani23
 - 👀 I’m interested in artificial intelligence
 - 🌱 I’m currently learning artificial intelligrnce and meachine learning
-- 💞️ I’m looking to collaborate on projrcts based on applications of AI and ML
+- 💞️ I’m looking to collaborate on projects based on applications of AI and ML
 
 
 <!---
